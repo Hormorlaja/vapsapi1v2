@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Apercu Pro Regular';
+    src: 
+        url('../fonts/Apercu-Font/Apercu-Pro-Regular.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Apercu Pro Medium';
+    src: 
+        url('../fonts/Apercu-Font/Apercu-Pro-Medium.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+  

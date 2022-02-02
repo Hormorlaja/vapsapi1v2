@@ -1,0 +1,10 @@
+$primary: #031F2A;
+$secondary: #00577A;
+$tertiary: #ABDFD4;
+@mixin ratingsBefore {
+    display: inline-block;
+    height: 10px;
+    border-radius: 50px;
+    width: 10px;
+    margin-right: 5px;
+}
